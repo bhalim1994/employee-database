@@ -11,7 +11,7 @@ An interactive employee database using Java to run the program & MySQL (phpMyAdm
 
 # How to run
 
-1) Download and run the repository in NetBeans IDE.
+1) Download and open the repository in NetBeans IDE.
 
 2) Install the Java to MySQL connector [here](https://dev.mysql.com/doc/relnotes/connector-j/5.1/en/news-5-1-47.html).
 
