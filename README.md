@@ -1,6 +1,6 @@
 # Employee Database
 
-An interactive employee database using Java to run the program & MySQL to track/update the data. Created in Apache NetBeans IDE.
+An interactive employee database using Java to run the program & MySQL (phpMyAdmin) to track/update the data. Created in Apache NetBeans IDE.
 
 # Highlights
   - Employee ID is automatically incremented and are unique primary keys.
