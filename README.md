@@ -3,7 +3,7 @@
 An interactive employee database using Java to run the program & MySQL to track/update the data. Created in Apache NetBeans IDE.
 
 # Highlights
-  - Employee ID is automatically updated and are unique primary keys.
+  - Employee ID is automatically incremented and are unique primary keys.
   - Ability to add new entries.
   - Ability to update existing entries.
   - Ability to delete existing entries.
