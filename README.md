@@ -15,6 +15,8 @@ An interactive employee database using Java to run the program & MySQL (phpMyAdm
 
 2) Install the Java to MySQL connector [here](https://dev.mysql.com/doc/relnotes/connector-j/5.1/en/news-5-1-47.html).
 
+3) Add the two JAR files in the MySQL connector to the libraries folder on NetBeans.
+
 3) Install XAMPP [here](https://www.apachefriends.org/download.html).
 
 4) Run Apache & MySQL in XAMPP.
