@@ -1,2 +1,3 @@
 # employee-database
-An employee database created using Java &amp; MySQL
+
+An interactive employee database using Java to run the program & MySQL to track the data.
